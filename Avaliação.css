@@ -1,0 +1,58 @@
+header {
+    color: white;
+    text-align: center;
+    background-color: #455559;
+    -webkit-border-radius:20px;   
+    border-radius: 20px;
+}
+
+p {
+    font-size: 120%;
+}
+
+main {
+    margin: auto;
+    display: block;
+}
+
+article {
+    color: white;
+    background-color: #182625;
+    border: 60px 50px;
+    padding: 50px;
+    border: 2px;
+    margin: 50px 400px 50px 0px;
+    padding: 30px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+}
+
+aside {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 180px;
+  background-color: white;
+  border-radius: 10px;
+  padding: 1.25rem;
+}s
+
+body{
+    background-color: #3D5A73;
+}
+
+.voltainicio {
+    bottom: 20px;
+    right: 20px;
+    background-color: #333;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+footer{
+    background-color: aqua;
+    text-align: center;
+}
